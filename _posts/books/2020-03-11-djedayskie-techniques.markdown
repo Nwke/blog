@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Книги: книга 2"
+title:  "Книги: Джедайские техники"
 date:   2020-03-11 4:54:04 +0300
 categories: Books
 permalink: /:year/:month/:day/books-kniga2
